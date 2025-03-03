@@ -19,11 +19,42 @@ Bem-vindo à DigiDapio! Este tutorial foi feito para ajudar você a configurar e
 
 Ao entrar na plataforma pela primeira vez, siga as etapas abaixo para configurar seu restaurante.  
 
-- **Passo 1:** Faça login na plataforma usando suas credenciais.  
-- **Passo 2:** Acesse as informações do seu restaurante clicando em "Informações do restaurante".  
-  ![alt text](image.png)  
-- **Passo 3:** Adicione as informações do seu restaurante, como nome, endereço e logo.  
-- **Passo 4:** Depois de concluído, clique em "Salvar".  
+Aqui está uma versão aprimorada dessa seção, tornando-a mais clara, organizada e profissional:  
+
+---
+
+### **2. Configuração Inicial do Restaurante**  
+
+Após criar sua conta, é essencial configurar as informações do seu restaurante para que seus clientes possam acessá-las corretamente. Siga os passos abaixo:  
+
+#### **Passo 1: Acesse as Informações do Restaurante**  
+- Faça login na plataforma usando suas credenciais.  
+- No menu lateral, clique em **"Informações do Restaurante"**.  
+  ![alt text](image-12.png)  
+
+#### **Passo 2: Preencha os Dados Essenciais**  
+Adicione as informações básicas do seu restaurante para personalizar sua presença na plataforma:  
+- **Nome do Restaurante** – Como será exibido para os clientes.  
+- **Endereço** – Localização do estabelecimento.  
+- **Número de Telefone** – Para contato com clientes.  
+- **Taxa de Frete** – Caso ofereça serviço de entrega.  
+- **Links das Redes Sociais** – Adicione seus perfis do **TikTok, Instagram e Facebook** para maior visibilidade.  
+- **Identidade Visual** – Escolha a cor principal que representa seu restaurante.  
+- **Descrição** – Um breve texto sobre o seu restaurante, para atrair e engajar clientes.  
+
+#### **Passo 3: Configure as Preferências do Restaurante**  
+- Acesse a aba **"Configurações do Restaurante"**.  
+  ![alt text](image-13.png)  
+
+#### **Passo 4: Defina o Horário de Funcionamento**  
+- Configure os dias e horários em que seu restaurante estará aberto.  
+  ![alt text](image-14.png)  
+
+#### **Passo 5: Configure os Métodos de Pagamento**  
+- Escolha as formas de pagamento aceitas no seu estabelecimento, como **dinheiro, transferência bancária ou pagamentos digitais**.  
+![alt text](image-15.png)
+#### **Passo 6: Salve as Configurações**  
+Após preencher todas as informações, clique em **"Salvar"** para garantir que tudo esteja atualizado.  
 
 ---
 
@@ -102,6 +133,15 @@ Além do link, você pode gerar um QR Code para compartilhar o Wi-Fi do restaura
 - **Passo 4:** Imprima e disponibilize o QR Code para que seus clientes possam se conectar ao Wi-Fi facilmente.  
 
 --
+
+## **9. Adicionar a taxa de frete**
+
+- **Passo 1:** Vá para a seção "Informações do restaurante" no painel lateral.  
+- **Passo 2:** Adicione o preço do frete no campo "Taxa de frete".  
+![alt text](image.png)
+- **Passo 3:** Salve as informações.  
+
+## **10. Escolher os metódos de pagamento disponível**
 
 ## **Suporte e Contato**
 
