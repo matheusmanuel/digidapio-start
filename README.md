@@ -52,7 +52,7 @@ Adicione as informações básicas do seu restaurante para personalizar sua pres
 
 #### **Passo 5: Configure os Métodos de Pagamento**  
 - Escolha as formas de pagamento aceitas no seu estabelecimento, como **dinheiro, transferência bancária ou pagamentos digitais**.  
-![alt text](image-15.png)
+
 #### **Passo 6: Salve as Configurações**  
 Após preencher todas as informações, clique em **"Salvar"** para garantir que tudo esteja atualizado.  
 
